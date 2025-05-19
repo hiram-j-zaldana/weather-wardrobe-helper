@@ -1,0 +1,19 @@
+.wardrobe-container {
+    margin: 20px auto;
+    max-width: 400px;
+    padding: 20px;
+    border: 2px solid #87CEEB;
+    border-radius: 10px;
+    text-align: center;
+}
+.clothing-suggestion {
+    font-size: 24px;
+    margin: 20px 0;
+}
+.weather-input {
+    margin: 10px 0;
+}
+label {
+    display: block;
+    margin: 10px 0;
+}
